@@ -14,11 +14,11 @@
 
 ## Документация
 
-* ***[Plan](https://github.com/ArthurPetrosov/QA_Diploma)***
+* ***[Plan](https://github.com/ArthurPetrosov/QA_Diploma/blob/master/Plan.md)***
 
-* ***[Check-list](https://github.com/ArthurPetrosov/QA_Diploma)***
+* ***[Check-list](https://github.com/ArthurPetrosov/QAMID_Diploma/blob/master/Check.xlsx)***
 
-* ***[Test-cases](https://github.com/ArthurPetrosov/QA_Diploma)***
+* ***[Test-cases](https://github.com/ArthurPetrosov/QAMID_Diploma/blob/master/Cases.xlsx)***
 
 * ***[Bugs issues](https://github.com/ArthurPetrosov/QA_Diploma)***
 
